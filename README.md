@@ -1,5 +1,5 @@
+# Hi, I'm Aqiel Syafiq Rahman 
 
-# 💫 About Me:
 👨‍💻Software Engineer From Indonesia<br/>
 🧑‍🎓Study at University Pembangunan Negri Veteran Jakarta, indonesia<br/>
 🤖Currently learning more about backend<br/>
