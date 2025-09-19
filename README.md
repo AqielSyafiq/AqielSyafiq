@@ -1,4 +1,4 @@
-# Hi, I'm Aqiel Syafiq Rahman 
+# 👋 Hi, I'm Aqiel Syafiq Rahman 
 
 👨‍💻Software Engineer From Indonesia<br/>
 🧑‍🎓Study at University Pembangunan Negri Veteran Jakarta, indonesia<br/>
