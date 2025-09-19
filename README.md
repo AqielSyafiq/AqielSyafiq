@@ -1,8 +1,8 @@
 ### Hi, I,m Aqiel Syafiq Rahman!
 
-👨‍💻Software Engineer From Indonesia 
-🧑‍🎓Study at University Pembangunan Negri Veteran Jakarta, indonesia
-🤖Currently learning more about backend 
+👨‍💻Software Engineer From Indonesia<br/>
+🧑‍🎓Study at University Pembangunan Negri Veteran Jakarta, indonesia<br/>
+🤖Currently learning more about backend <br/>
 
 <!-- Github Stats from https://github.com/anuraghazra/github-readme-stats -->
 
