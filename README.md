@@ -1,13 +1,12 @@
-### Hi, I,m Aqiel Syafiq Rahman!
 
-👨‍💻Software Engineer From Indonesia<br/>
-🧑‍🎓Study at University Pembangunan Negri Veteran Jakarta, indonesia<br/>
-🤖Currently learning more about backend <br/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AqielSyafiq&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AqielSyafiq&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AqielSyafiq&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Github Stats from https://github.com/anuraghazra/github-readme-stats -->
+---
+[![](https://visitcount.itsvg.in/api?id=AqielSyafiq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 My GitHub Stats
-
-![Magdeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsolo5&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-
-[GitHub Readme Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
